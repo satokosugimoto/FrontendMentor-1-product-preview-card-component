@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./img/screenshot-desktop.png)
-![](./img/screenshot-responsive.png)
+![](./img/screenshot-desktop-1440px.png)
+![](./img/screenshot-mobile-375px.png)
 
 ## My process
 
